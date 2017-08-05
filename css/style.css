@@ -1,0 +1,115 @@
+.nav-bar-bg{
+	background:#262626;
+}
+.navbar-nav>li>a {
+color: #fff;
+}
+.navbar-nav>li>a:hover {
+color: #d75954;
+border-bottom: : 4px solid #d75954;
+
+
+}
+
+.icon-bar {
+   
+    background-color: #fff;
+}
+.slider-bg{
+	background: #2a2a2a;
+	margin-top: 0px;
+	min-height: 400px;
+	
+}
+.slider-content{
+    color: #fff;
+	
+    text-align: center;
+    margin: 10%;
+}
+.slider-content h1{
+    font-size: 56px;
+}
+.slider-content p{
+    font-size: 35px;
+}
+.btn-style{
+    background: #ff6760;
+	
+    border: none;
+    padding: 10px 35px;
+}
+.fetures-section{
+	margin-top: 5%;
+}
+.app-img{
+    text-align: center;
+}
+.app-img h1{}
+.app-img p{}
+.content{
+	text-align: center;
+margin-top: 3%;
+}
+.content h1{}
+.content p{}
+.list-inline{
+    text-align: center;
+    margin:40px 10px;
+}
+.add li{
+        list-style: none;
+}
+.add li i{
+    padding: 15px;
+    color: red;
+}
+.list-inline li{
+    text-decoration: none;
+}
+.list-inline li a{
+    text-transform: uppercase;
+    background: #ff6760;
+    padding: 10px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+.list-inline li a:hover{
+     background:black;
+    
+}
+.portfolio-img{
+	margin-top: 30px;
+}
+.footer{
+	 background: #313131;
+     color: #fff;
+     text-align: center;
+     margin-top: 50px;
+}
+.footer-content{
+	padding: 50px;
+}
+.footer h1{}
+.footer p{}
+.social li{}
+
+.social li a {
+    border-radius: 50px;
+    background-color: #fff;
+  
+}
+.social li a i{}
+
+.bottom-footer{
+	background: #2c2c2c;
+}
+.bottom-footer-content{
+	color: #fff;
+   text-align: center;
+}
+.bottom-footer-content h2{
+	font-size: 18px;
+padding: 10px;
+	}
